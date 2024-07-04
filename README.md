@@ -1,2 +1,3 @@
+# Analyzing migration timings from the Somali internal migration data
 This is a repository for the manuscript ...
 For the R code, run "code_fin.R"
